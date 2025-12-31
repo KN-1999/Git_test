@@ -1,2 +1,5 @@
 Git練習
 Gitの操作を勉強します！
+
+・git add
+・git commit
